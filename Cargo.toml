@@ -1,0 +1,15 @@
+[package]
+name = "nickelboogy"
+version = "0.1.0"
+authors = ["Stephen Wakely <stephenwakely@insurevip.co.uk>"]
+edition = "2018"
+
+
+[dependencies]
+nickel = "*"
+hyper = "0.10"
+argon2rs = "0.2"
+rand = "0.7"
+cookie = "0.12"
+hex = "0.3"
+lazy_static = "1.3"
